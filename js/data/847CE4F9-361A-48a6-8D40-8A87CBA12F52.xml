@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.3:1", "", "Vista de Implementación", "EARoot/EA3/EA502.html", "182.png", "79", "0", "", "CompositeStructure diagram0","{075E734F-8429-470d-BB16-097E52392B15}");
+tocTab[tocTab.length] = new Array("0.3.1", "1", "Diagrama de componentes", "EARoot/EA3/EA1/EA512.html", "4.png", "", "", "{98D17E45-0610-4730-97A9-E0A8D700956C}", "Package");

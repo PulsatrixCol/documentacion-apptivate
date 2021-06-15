@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.1:1", "", "Diagrama de Despliegue", "EARoot/EA1/EA1/EA9.html", "179.png", "82", "0", "", "Deployment diagram0","{E0827A5F-A76B-4040-8D21-52C817460419}");
+tocTab[tocTab.length] = new Array("0.1.1:2", "", "Aplicación movil apptivate (android)", "EARoot/EA1/EA1/EA12.html", "191.png", "E908", "0", "", "Device0","{7E0DA63C-5D82-4b4d-9D7E-D4E7BCD04AB3}");
+tocTab[tocTab.length] = new Array("0.1.1:3", "", "Pulsatrix server", "EARoot/EA1/EA1/EA13.html", "9.png", "E868", "0", "", "Node0","{0DEBA578-F74C-4de5-9667-0ACD6DE4CF7A}");
+tocTab[tocTab.length] = new Array("0.1.1:4", "", "Web Browser", "EARoot/EA1/EA1/EA14.html", "191.png", "E907", "0", "", "Device0","{0BB0A28A-171B-40be-BCE2-71074B95E962}");
+tocTab[tocTab.length] = new Array("0.1.1:5", "", "Backend de analitica (flask)", "EARoot/EA1/EA1/EA15.html", "192.png", "E902", "E868", "", "ExecutionEnvironment0","{396EFEFE-0E84-4fca-B5C4-BCF8313467D5}");
+tocTab[tocTab.length] = new Array("0.1.1:6", "", "Backend principal (node)", "EARoot/EA1/EA1/EA16.html", "192.png", "E903", "E868", "", "ExecutionEnvironment0","{327A1B8A-C0ED-45bd-96B0-F29FF7A79967}");
+tocTab[tocTab.length] = new Array("0.1.1:7", "", "Base de datos Postgresql", "EARoot/EA1/EA1/EA17.html", "192.png", "E909", "E868", "", "ExecutionEnvironment0","{BA48077A-330B-465a-A3CA-C38C1F03C064}");
+tocTab[tocTab.length] = new Array("0.1.1:8", "", "Base de datos principal", "EARoot/EA1/EA1/EA18.html", "10.png", "E906", "E868", "", "Component0","{B15B7A00-5FEE-4088-8AC6-D0A6D8778842}");
+tocTab[tocTab.length] = new Array("0.1.1:9", "", "Frontend admins (Vue)", "EARoot/EA1/EA1/EA19.html", "192.png", "E905", "E868", "", "ExecutionEnvironment0","{B7606AA4-6091-4e8f-801E-E774EBCD91D9}");
+tocTab[tocTab.length] = new Array("0.1.1:10", "", "Frontend ciudadano (angular)", "EARoot/EA1/EA1/EA20.html", "192.png", "E904", "E868", "", "ExecutionEnvironment0","{1E49644E-6E06-4dfd-8791-88E7EFD38ED7}");

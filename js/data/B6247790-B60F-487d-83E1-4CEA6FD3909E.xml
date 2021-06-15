@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.2.1.1.1:1", "", "Admin", "EARoot/EA2/EA1/EA1/EA1/EA61.html", "6.png", "E643", "0", "", "Actor0","{C58C29BF-2C86-4e3d-A155-D1D35F0EC002}");
+tocTab[tocTab.length] = new Array("0.2.1.1.1:2", "", "«UserRole» Admin Deportes", "EARoot/EA2/EA1/EA1/EA1/EA62.html", "6.png", "E642", "0", "", "Actor0","{847A3C32-4B87-458f-81CD-802AA8960624}");
+tocTab[tocTab.length] = new Array("0.2.1.1.1:3", "", "«UserRole» Admin Educacion", "EARoot/EA2/EA1/EA1/EA1/EA63.html", "6.png", "E644", "0", "", "Actor0","{2FA769E8-D253-4830-A132-896BFF29B325}");
+tocTab[tocTab.length] = new Array("0.2.1.1.1:4", "", "«UserRole» Analista", "EARoot/EA2/EA1/EA1/EA1/EA64.html", "6.png", "E645", "0", "", "Actor0","{285DFD62-E14A-4f7d-A959-9903B628AE20}");
