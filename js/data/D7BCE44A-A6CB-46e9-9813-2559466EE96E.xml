@@ -1,2 +1,1 @@
-tocTab[tocTab.length] = new Array("0.4.1:1", "", "Modelo de bases de datos", "EARoot/EA4/EA1/EA529.html", "175.png", "66", "0", "", "Logical diagram0","{A9655FA1-676F-4b7b-8402-430E54CCFB02}");
-tocTab[tocTab.length] = new Array("0.4.1:2", "", "«table» Table1", "EARoot/EA4/EA1/EA532.html", "8C9E6706-8_table.png", "E481", "0", "", "Class0","{BD468623-FFA1-4fd6-86AA-2E610E5FB8DE}");
+tocTab[tocTab.length] = new Array("0.4.1:1", "", "Modelo de bases de datos", "EARoot/EA4/EA1/EA532.html", "175.png", "66", "0", "", "Logical diagram0","{A9655FA1-676F-4b7b-8402-430E54CCFB02}");

@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.4.2.1.1", "1", "Backend (Node)", "EARoot/EA4/EA2/EA1/EA1/EA547.html", "4.png", "", "", "{DF0619CC-2F40-4dd5-92EE-3DB3D6390E82}", "Package");
-tocTab[tocTab.length] = new Array("0.4.2.1.2", "", "Motor de analitica (Flask)", "EARoot/EA4/EA2/EA1/EA2/EA627.html", "4.png", "", "", "{0B9BAFAF-A0A7-48a0-9C8B-56CBB931865F}", "Package");
-tocTab[tocTab.length] = new Array("0.4.2.1.3", "1", "Front ciudadanos (Angular)", "EARoot/EA4/EA2/EA1/EA3/EA630.html", "4.png", "", "", "{6C84F6AF-BEE7-4744-88EC-FA8FA9A01266}", "Package");
-tocTab[tocTab.length] = new Array("0.4.2.1.4", "1", "Front Administración (Vue)", "EARoot/EA4/EA2/EA1/EA4/EA690.html", "4.png", "", "", "{9E2A4CCD-4C9B-4199-AF0A-D2C19960AC5B}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.1.1", "1", "Backend (Node)", "EARoot/EA4/EA2/EA1/EA1/EA554.html", "4.png", "", "", "{DF0619CC-2F40-4dd5-92EE-3DB3D6390E82}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.1.2", "", "Motor de analitica (Flask)", "EARoot/EA4/EA2/EA1/EA2/EA634.html", "4.png", "", "", "{0B9BAFAF-A0A7-48a0-9C8B-56CBB931865F}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.1.3", "1", "Front ciudadanos (Angular)", "EARoot/EA4/EA2/EA1/EA3/EA637.html", "4.png", "", "", "{6C84F6AF-BEE7-4744-88EC-FA8FA9A01266}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.1.4", "1", "Front Administración (Vue)", "EARoot/EA4/EA2/EA1/EA4/EA697.html", "4.png", "", "", "{9E2A4CCD-4C9B-4199-AF0A-D2C19960AC5B}", "Package");

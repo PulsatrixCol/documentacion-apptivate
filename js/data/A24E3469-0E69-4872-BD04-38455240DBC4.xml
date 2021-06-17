@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.7:1", "", "Vista de Procesos", "EARoot/EA7/EA773.html", "182.png", "75", "0", "", "CompositeStructure diagram0","{D7A762D2-3B9F-4321-AC9A-8F52D69E92F1}");
-tocTab[tocTab.length] = new Array("0.7.1", "1", "Diagramas de actividades", "EARoot/EA7/EA1/EA842.html", "4.png", "", "", "{37B5F8D5-5277-4224-BBC4-90435D51DA74}", "Package");
-tocTab[tocTab.length] = new Array("0.7.2", "1", "Diagramas de secuencias", "EARoot/EA7/EA2/EA1190.html", "4.png", "", "", "{2F46C012-EE99-4fdd-972D-0209F1D5B90E}", "Package");
+tocTab[tocTab.length] = new Array("0.7:1", "", "Vista de Procesos", "EARoot/EA7/EA781.html", "182.png", "75", "0", "", "CompositeStructure diagram0","{D7A762D2-3B9F-4321-AC9A-8F52D69E92F1}");
+tocTab[tocTab.length] = new Array("0.7.1", "1", "Diagramas de actividades", "EARoot/EA7/EA1/EA850.html", "4.png", "", "", "{37B5F8D5-5277-4224-BBC4-90435D51DA74}", "Package");
+tocTab[tocTab.length] = new Array("0.7.2", "1", "Diagramas de secuencias", "EARoot/EA7/EA2/EA1211.html", "4.png", "", "", "{2F46C012-EE99-4fdd-972D-0209F1D5B90E}", "Package");
